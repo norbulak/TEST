@@ -34,3 +34,4 @@ def print_list(l):
 print_list(l)
 notes = [1.2, 10.5, 18.5]
 print_list(notes)
+# Hada Simou bedel le cours
